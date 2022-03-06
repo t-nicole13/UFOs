@@ -29,15 +29,16 @@ Display research data based on UFO sightings in the USA. Also, create an interac
 ## Results
 
 ### Webpage
-sample_of_page
+![sample_of_page](https://user-images.githubusercontent.com/33010018/156904598-1381e73e-4c42-49d3-9984-4a97dc9fbc85.png)
 
 ### Filtered Table
-filtered_table
+![filtered_table](https://user-images.githubusercontent.com/33010018/156904605-15f039ee-28a3-4832-a994-70d52e917775.png)
 
 ### Using the Webpage
 - Enter 1 or more search criteria under 'Filter Search' and click out of the search box.
     - Example Searching the State of MO
-    search_criteria
+    
+    ![search_criteria](https://user-images.githubusercontent.com/33010018/156904619-30a6a30c-83cf-4e92-a1ab-878c9c10be29.png)
 - See filtered table showing only MO above.
 - Delete your search criteria and click out of the search box to get back to the original table.
 
