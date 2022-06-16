@@ -1,29 +1,32 @@
 # UFOs
 
 ## Objective
-Display research data based on UFO sightings in the USA. Also, create an interactive webpage that allows users to filter the data.  For this project, ECMAScript (ES6) will be used.  ES6 is an update to JavaScript that provides standardization.   Additionally, the JavaScript library, D3, will be used to interact with the HTML that will create the webpage.
+I created an interactive webpage to display research data based on UFO sightings in the USA.  The webpage allows users to filter the data.  
+
+For this project, ECMAScript (ES6) was used.  ES6 is an update to JavaScript that provides standardization.   
+
+Additionally, the JavaScript library, D3, was used to interact with the HTML that will create the webpage.
 
 ### Tasks
 
-- Use JavaScript to create a dynamic table of the data.
-- Use JavaScript to add a filter to manipulate the data by date, city, state, country, and shape.
-- Use HTML to create a webpage that allows users to view the data.
-- Use Bootstrap to design and make the page responsive.
-- Use CSS to design the page.
-
+    - Use JavaScript to create a dynamic table of the data.
+    - Use JavaScript to add a filter to manipulate the data by date, city, state, country, and shape.
+    - Use HTML to create a webpage that allows users to view the data.
+    - Use Bootstrap to design and make the page responsive.
+    - Use CSS to design the page.
+    - Analyze how I can make the webpage better for users.
 
 ## Resources
 
 ### Tools/Languages/Libraries:
-
-- JavaScript(ES6)
-- HTML5
-- Bootstrap 3
-- D3 4.11.0
-- CSS3
+    - JavaScript(ES6)
+    - HTML5
+    - Bootstrap 3
+    - D3 4.11.0
+    - CSS3
 
 ### File:
-- data.js
+    - data.js
 
 
 ## Results
