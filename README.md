@@ -44,8 +44,9 @@ Display research data based on UFO sightings in the USA. Also, create an interac
 
 
 ## Summary
-### Drawback of This Webpage
-There is not a submit button or instructions to show users how the filter works.  If a user enters text without clicking out of the search box, the table doesn't filter.  The table only filters once you click out of the search box after entering text.
+### Drawbacks of This Webpage
+- There is not a submit button or instructions to show users how the filter works.  If a user enters text without clicking out of the search box, the table doesn't filter.  
+- The table only filters once you click out of the search box after entering text.
 
 
 ### Additional Recommendations for Further Development
